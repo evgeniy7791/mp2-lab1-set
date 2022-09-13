@@ -158,7 +158,7 @@ TEST(TSet, can_insert_existing_element_using_plus_operator)
   EXPECT_NE(0, set.IsMember(k));
 }
 
-TEST(TSet, check_size_of_the_combination_of_two_sets_of_equal_size)
+TEST(TSet, check_size_of_the_combination_of_two_sets_of_equal_size) //женька маркер
 {
   const int size = 5;
   TSet set1(size), set2(size), set3(size);
