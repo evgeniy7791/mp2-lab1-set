@@ -1,0 +1,6 @@
+C:/Users/Asus/Desktop/lexa/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Desktop/lexa/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Asus/Desktop/lexa/src/CMakeFiles/set.dir
+C:/Users/Asus/Desktop/lexa/samples/CMakeFiles/sample_prime_numbers.dir
+C:/Users/Asus/Desktop/lexa/gtest/CMakeFiles/gtest.dir
+C:/Users/Asus/Desktop/lexa/test/CMakeFiles/test_set.dir
